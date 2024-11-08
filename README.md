@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @hikari22110162
-- 👀 I’m interested in your mom
-- 🌱 I’m currently learning to rizz
-- 💞️ I’m looking to collaborate on your mom
+- 👀 I’m interested in HTML and CSS 
+- 🌱 I’m currently learning to JS
+- 💞️ I’m looking for a gothic mommy
 - 📫 Reach me at bebiumcc123@gmail.com  
 - 😄 Pronouns: Nick/Her
-- ⚡ Fun fact: I'm crazy bout your sister
+- ⚡ Fun fact: I love gothic mommy 
 
 
 <!---
