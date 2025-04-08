@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hikari22110162
-- 👀 I’m interested in HTML and CSS 
+- 👀 I’m interested in Computer Science and Engineering
 - 🌱 I’m currently learning to JS
-- 📫 Reach me at bebiumcc123@gmail.com  
+- 📫 Reach me at hikariou2134@gmail.com  
 - 😄 Pronouns: He/Him
 
 
