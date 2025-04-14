@@ -2,7 +2,8 @@
 - 👀 I’m interested in Computer Science and Engineering
 - 🌱 I’m currently learning to JS
 - 📫 Reach me at hikariou2134@gmail.com  
-- 😄 Pronouns: He/Him
+- study at VietNam Japan University
+- Bachelor of Computer Science and Engineering 
 
 
 
